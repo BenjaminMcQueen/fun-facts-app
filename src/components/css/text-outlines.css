@@ -1,0 +1,23 @@
+.Text-outline-w-5 {
+    --weight-w: #fff5;
+
+    text-shadow: 0px 0.5px var(--weight-w), 0px -0.5px var(--weight-w), 0.5px 0px var(--weight-w), -0.5px 0px var(--weight-w);
+}
+
+.Text-outline-w-8 {
+    --weight-w: #fff8;
+
+    text-shadow: 0px 0.5px var(--weight-w), 0px -0.5px var(--weight-w), 0.5px 0px var(--weight-w), -0.5px 0px var(--weight-w);
+}
+
+.Text-outline-w-a {
+    --weight-w: #fffa;
+
+    text-shadow: 0px 0.5px var(--weight-w), 0px -0.5px var(--weight-w), 0.5px 0px var(--weight-w), -0.5px 0px var(--weight-w);
+}
+
+.Text-outline-w-d {
+    --weight-w: #fffd;
+
+    text-shadow: 0px 0.5px var(--weight-w), 0px -0.5px var(--weight-w), 0.5px 0px var(--weight-w), -0.5px 0px var(--weight-w);
+}
