@@ -20,6 +20,7 @@ export class App extends Component {
               <Route exact path="/factone" element={<FactOne />} />
               <Route exact path="/facttwo" element={<FactTwo />} />
               <Route exact path="/factthree" element={<FactThree />} />
+              <Route exact path="/*" element={<Home />} />
             </Routes>
           </div>
           <Footer />
