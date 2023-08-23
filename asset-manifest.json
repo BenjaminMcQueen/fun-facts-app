@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fun-facts-app/static/css/main.3f7de750.css",
+    "main.js": "/fun-facts-app/static/js/main.9017ec19.js",
+    "static/media/Rytlock_02_concept_art.png": "/fun-facts-app/static/media/Rytlock_02_concept_art.b9897ecff5911b85a717.png",
+    "static/media/aurene-sanctuary.png": "/fun-facts-app/static/media/aurene-sanctuary.0fe98af751804a6dd85f.png",
+    "static/media/gw2-banner-3.png": "/fun-facts-app/static/media/gw2-banner-3.05c994f0d4ae101fdb75.png",
+    "static/media/jormag-banner.jpg": "/fun-facts-app/static/media/jormag-banner.981ad109b7f9b68a5755.jpg",
+    "static/media/AllRacesBanner.png": "/fun-facts-app/static/media/AllRacesBanner.f1a1cfd6e452f009c68c.png",
+    "static/media/Mesmer_04_concept_art_(wide).png": "/fun-facts-app/static/media/Mesmer_04_concept_art_(wide).db8aba44770f9f01619b.png",
+    "static/media/zhaitan-banner.jpg": "/fun-facts-app/static/media/zhaitan-banner.081b05abbfdc4569af72.jpg",
+    "index.html": "/fun-facts-app/index.html",
+    "main.3f7de750.css.map": "/fun-facts-app/static/css/main.3f7de750.css.map",
+    "main.9017ec19.js.map": "/fun-facts-app/static/js/main.9017ec19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f7de750.css",
+    "static/js/main.9017ec19.js"
+  ]
+}
