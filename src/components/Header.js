@@ -14,9 +14,9 @@ const Header = (props) => {
             </NavLink>
 
             <div className='Fact-buttons'>
-                <NavLink to="/factone"><button className='btn1 Text-outline-w-d'>fact 1</button></NavLink>
-                <NavLink to="/facttwo"><button className='btn2 Text-outline-w-d'>fact 2</button></NavLink>
-                <NavLink to="/factthree"><button className='btn3 Text-outline-w-d'>fact 3</button></NavLink>
+                <NavLink to="/factone"><button className='btn1 Text-outline-w-d'>fact page 1</button></NavLink>
+                <NavLink to="/facttwo"><button className='btn2 Text-outline-w-d'>fact page 2</button></NavLink>
+                <NavLink to="/factthree"><button className='btn3 Text-outline-w-d'>fact page 3</button></NavLink>
             </div>
         </div>
     );
