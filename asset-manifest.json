@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fun-facts-app/static/css/main.3f7de750.css",
-    "main.js": "/fun-facts-app/static/js/main.9017ec19.js",
+    "main.js": "/fun-facts-app/static/js/main.dbdc6747.js",
     "static/media/Rytlock_02_concept_art.png": "/fun-facts-app/static/media/Rytlock_02_concept_art.b9897ecff5911b85a717.png",
     "static/media/aurene-sanctuary.png": "/fun-facts-app/static/media/aurene-sanctuary.0fe98af751804a6dd85f.png",
     "static/media/gw2-banner-3.png": "/fun-facts-app/static/media/gw2-banner-3.05c994f0d4ae101fdb75.png",
@@ -11,10 +11,10 @@
     "static/media/zhaitan-banner.jpg": "/fun-facts-app/static/media/zhaitan-banner.081b05abbfdc4569af72.jpg",
     "index.html": "/fun-facts-app/index.html",
     "main.3f7de750.css.map": "/fun-facts-app/static/css/main.3f7de750.css.map",
-    "main.9017ec19.js.map": "/fun-facts-app/static/js/main.9017ec19.js.map"
+    "main.dbdc6747.js.map": "/fun-facts-app/static/js/main.dbdc6747.js.map"
   },
   "entrypoints": [
     "static/css/main.3f7de750.css",
-    "static/js/main.9017ec19.js"
+    "static/js/main.dbdc6747.js"
   ]
 }
